@@ -5,10 +5,6 @@ date: 0001-01-01 00:01 +0200
 categories: [Other, SUB_CATEGORIE, TEST_CATEGORIE]
 tags: [TEST, TWO]     # TAG names should always be lowercase
 pin: true
-image:
-  path: /commons/devices-mockup.png
-  lqip: 
-  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
 
