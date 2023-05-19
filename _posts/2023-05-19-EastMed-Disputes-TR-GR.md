@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Eagean Island Disputes Sea and Airspace
-date: 2023-05-21 12:00 +0200
+title: East Mediterranean Disputes of Türkiye and Greece
+date: 2023-05-19 12:00 +0200
 categories: [Mediterranean, Turkey]
 tags: [Turkish, UNCLOS]     # TAG names should always be lowercase
 ---
 
-## Testing Other Topics
+## East Mediterranean Disputes of Türkiye and Greece
 United Nations Convention on the Law of the Sea
