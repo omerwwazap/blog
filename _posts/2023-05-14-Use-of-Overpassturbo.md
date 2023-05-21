@@ -8,4 +8,4 @@ tags: [ENGLISH, OVERPASSTURBO]     # TAG names should always be lowercase
 
 ## OSINT with Overpass Turbo
 
-[Whoa this tag test works!](https://medium.com/@leventd/quiztime-random-osint-challenge-8-ec1dc743a508)
+https://medium.com/@leventd/quiztime-random-osint-challenge-8-ec1dc743a508
