@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIST Phish Scale Oltalama Testlerinin Optimize Edilmesi
-date: 2023-08-01 12:00 +0200
+date: 2023-05-01 12:00 +0200
 categories: [Cyber Security, Phishing]
 tags: [Turkish]     # TAG names should always be lowercase
 ---

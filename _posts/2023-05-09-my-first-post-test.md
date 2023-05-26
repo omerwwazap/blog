@@ -3,7 +3,7 @@ layout: post
 title: My First Post
 date: 2023-05-09 20:46 +0200
 categories: [OSINT, Challenges, TEST_CATEGORIE]
-tags: [ENGLISH]     # TAG names should always be lowercase
+tags: [English]     # TAG names should always be lowercase
 ---
 
 # My First Post

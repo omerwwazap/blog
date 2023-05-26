@@ -3,7 +3,7 @@ layout: post
 title: Simply GeoEstimation — OSINT Challenge 13
 date: 2022-05-14 12:00 +0200
 categories: [OSINT, CTF]
-tags: [ENGLISH, ACADEMIC,]     # TAG names should always be lowercase
+tags: [English, Academic,]     # TAG names should always be lowercase
 ---
 
 ## OSINT with GeoEstimation
