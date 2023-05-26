@@ -10,3 +10,7 @@ ruby
 bundle exec jekyll s
 
 bundle exec jekyll post "My New Post"
+
+
+
+![wo](/images/logo.jpg)

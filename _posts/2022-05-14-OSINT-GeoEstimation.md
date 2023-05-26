@@ -8,3 +8,6 @@ tags: [ENGLISH, ACADEMIC,]     # TAG names should always be lowercase
 
 ## OSINT with GeoEstimation
 https://medium.com/@leventd/simply-geoestimation-osint-challenge-13-3ecf71bff4c8
+
+
+![wo](/images/logo.jpg)
