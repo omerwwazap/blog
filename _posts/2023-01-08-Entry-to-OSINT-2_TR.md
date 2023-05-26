@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation - 2
-date: 2021-05-14 19:06 +0200
+date: 2023-01-08 13:00 +0200
 categories: [OSINT]
 tags: [Turkish]     # TAG names should always be lowercase
 ---
