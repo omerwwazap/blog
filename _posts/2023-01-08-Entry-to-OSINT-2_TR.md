@@ -106,7 +106,7 @@ Bazen yukarıda bahsettiğimiz yöntemlerin hiç birisi işinize yaramayabilir. 
 
 Gibi yukarıdaki siteler ve aklınıza gelebilecek her şeyin listesini tutan sitler bulunuyor. Yapmanız gereken tek şey arayabileceğiniz bir şey bulup, aradığınız coğrafi alanı daraltmaktır.
 
-Basit bir geolcation örneği görmek isterseniz; bu basit örneğe bakabilirsiniz. [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597) Medium hesabımda 30'a yakın geolcation çözümü bulunuyor :smiley:
+Basit bir geolcation örneği görmek isterseniz; bu basit örneğe bakabilirsiniz. [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597) Medium hesabımda 30'a yakın geolcation çözümü bulunuyor :smiley: 😂 ::): :':)': :":)":
 
 ## Kaynak
 
