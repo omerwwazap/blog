@@ -28,3 +28,5 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem 'jekyll-redirect-from'
+
+gem 'jemoji'

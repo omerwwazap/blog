@@ -1,21 +1,19 @@
 ---
 layout: post
-title: Disputes of Türkiye and Greece - Mediterranean Part 1
+title: Disputes of Türkiye and Greece - Eastern Mediterranean Part 1
 date: 2023-05-19 12:00 +0200
-categories: [Disputes, Mediterranean]
+categories: [International Relations, Mediterranean]
 tags: [English]     # TAG names should always be lowercase
 ---
 
-## History of the Disputes
+# The Eastern Mediterranean Dispute Part 1
+
+## Its History
 
 - History paragraph
 
 - Map showing timeline of areas
 
-### Problems in Aegean Sea
+## General Problems
 
-- Islands not given to Greece
-
-- De militarization of islands
-
-- map of islands
+- Breif of all on going disputes

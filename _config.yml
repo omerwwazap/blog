@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ömer Levent Durdalı
-  email: levent07@protonmail.ch # change to your email address
+  email: levent07@live.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/omerwwazap # change to your twitter homepage
@@ -197,3 +197,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jemoji

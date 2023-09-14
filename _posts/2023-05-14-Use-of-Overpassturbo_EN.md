@@ -2,7 +2,7 @@
 layout: post
 title: Who Throws Away Canvassed Satellite Images? - OSINT Challenge 8 with Overpass Turbo
 date: 2021-05-14 19:06 +0200
-categories: [OSINT, CTF]
+categories: [OSINT, Geolocation]
 tags: [English, overpassturbo]     # TAG names should always be lowercase
 ---
 
