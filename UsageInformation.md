@@ -6,6 +6,9 @@ https://github.com/jekyll/jekyll-compose
 
 https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts
 
+https://github.com/jekyll/jekyll/issues/549
+
+
 ruby
 bundle exec jekyll s
 
