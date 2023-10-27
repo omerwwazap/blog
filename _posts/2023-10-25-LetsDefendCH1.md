@@ -4,8 +4,9 @@ title: Lets Defend Challenge&#58; Investigate Web Attack
 date: 2023-10-25 12:00 +0200
 categories: [Cyber Security, Walkthroughs]
 tags: [English, Letsdefend]     # TAG names should always be lowercase
+img_path: /images/LetsDefendCH1/
 image:
-  path: /images/LetsDefendCH1/webAttack.png
+  path: /webAttack.png
   alt: Let's Defend Investigate Web Attack Challenge.
 ---
 
@@ -19,11 +20,11 @@ First, we have to download the log file and open it with any text editor you hav
 
 Checking the logs, the first ~40 logs seem to be normal requests from a Mozilla client using MacOS.
 
-![Logs](/Images/LetsDefendCH1/First40Logs.png)
+![Logs](/First40Logs.png)
 
 After line 40, we start seeing a new user agent, called “Nikto”. If you're not familiar with it, a quick Google search shows you that Nikto is an open-source vulnerability scanner.
 
-![Logs](/Images/LetsDefendCH1/NiktoLogs.png)
+![Logs](/NiktoLogs.png)
 
 Meaning we've found the answer to the first question. It should be noted that that I've never used Nikto, so it’s going to be interesting going forward. As a side note after a Google search, I found bWAPP stands for “buggy web application” which is cool, I guess.
 
@@ -32,7 +33,7 @@ Meaning we've found the answer to the first question. It should be noted that th
 
 ## *Q2: After web reconnaissance activity, which technique did attacker use for directory listing discovery?*
 
-![Logs](/Images/LetsDefendCH1/NiktoLogs2.png)
+![Logs](/NiktoLogs2.png)
 
 Looking at this, we see that the attacker is trying to find something with changing file extension. My immediate thought was they were trying to upload a file and were testing if there were any “Unrestricted File Uploads” available but when I tried that I get the **“Oops, wrong answer!”** error.
 
@@ -40,9 +41,9 @@ So, checked the hint page. It said “directory ____ ____”.
 
 So, I started searching for different vulnerabilities about Directories.
 
-![Logs](/Images/LetsDefendCH1/DirTesting1.png)
+![Logs](/DirTesting1.png)
 
-![Logs](/Images/LetsDefendCH1/DirTesting2.png)
+![Logs](/DirTesting2.png)
 
 I also saw these parts, but they didn't provide any additional information. After a while I started trying various different vulnerability names and eventually found it.
 
@@ -53,9 +54,9 @@ I also saw these parts, but they didn't provide any additional information. Afte
 
 Looking at these logs,
 
-![Logs](/Images/LetsDefendCH1/Discovery1.png)
+![Logs](/Discovery1.png)
 
-![Logs](/Images/LetsDefendCH1/Discovery2.png)
+![Logs](/Discovery2.png)
 
 It seems like the attacker is testing random endpoints within the same timeframe. My immediate thought was that they were doing and brute force attack. So, I just simply tried this as the answer and it worked. 
 
@@ -64,13 +65,13 @@ It seems like the attacker is testing random endpoints within the same timeframe
 
 ### Some Notes
 
-![Logs](/Images/LetsDefendCH1/ChangeinUserAgent.png)
+![Logs](/ChangeinUserAgent.png)
 
 *In full honesty Q2 and Q3 seems very odd.* But I realize now that I was initially looking at the wrong thing. The directory brute force attempts begin when the user agent changes to MSIE6 (meaning Internet Explorer 6) When you realize this, it makes much more sense.
 
-![Logs](/Images/LetsDefendCH1/DirBruteForce.png)
+![Logs](/DirBruteForce.png)
 
-![Logs](/Images/LetsDefendCH1/DirBruteForce2.png)
+![Logs](/DirBruteForce2.png)
 
 Meaning I solved Q2 and Q3 by pure chance, but at least now I understand the questions.
 
@@ -78,7 +79,7 @@ Meaning I solved Q2 and Q3 by pure chance, but at least now I understand the que
 
 Fastest way to test this is to check POST requests, so let's do that.
 
-![Logs](/Images/LetsDefendCH1/PostReq.png)
+![Logs](/PostReq.png)
 
 After the last brute force attempt, you find that the next log is;
 
