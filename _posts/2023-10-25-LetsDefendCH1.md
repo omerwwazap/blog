@@ -12,8 +12,6 @@ image:
 
 # Investigate Web Attack [^1]
 
-## Solving the challenge
-
 First, we have to download the log file and open it with any text editor you have. I have Notepad++ and Visual Studio Code. Let’s go with VSCode as it has color linting, so it’ll be easier to see.
 
 ## *Q1: Which automated scan tool did attacker use for web reconnaissance?*
