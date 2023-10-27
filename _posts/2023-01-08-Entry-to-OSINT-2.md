@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation - 2
+title: "[TR] OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation - 2"
 date: 2023-01-08 13:00 +0200
 categories: [OSINT, Geolocation]
 tags: [Turkish]     # TAG names should always be lowercase
@@ -86,7 +86,7 @@ Bazen yukarıda bahsettiğimiz yöntemlerin hiç birisi işinize yaramayabilir. 
   - [Geo Tips](https://geotips.net/europe/)
   - Dil Tespiti için - [GeoGuessr The Top Tips, Tricks and Techniques](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/#languages)
 - Bilmediğiniz bir araç plakası mı var? Dünyadaki tüm geçmiş ve mevcut araç plaka tiplerini listeleyen sitelere bakabilirsiniz.
-  - [World License Plates](http://www.worldlicenseplates.com/)
+  - [World License Plates](https://www.worldlicenseplates.com/)
 - Ülke bayrağı olmadığını düşündüğünüz bayraklar mı görülüyorsunuz? Bunun için bu sitelere bakabilirsiniz.
   - [Flag ID](https://flagid.org/)
   - [The Flag-Finder](https://www.flaggenlexikon.de/flag-finder/index_dt.htm)

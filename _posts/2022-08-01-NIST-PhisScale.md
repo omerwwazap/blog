@@ -91,10 +91,10 @@ Here's a sentence with a footnote. [^10]
 
 --
 
-- https://academic.oup.com/cybersecurity/article/6/1/tyaa009/5905453?login=false#207409537
-- https://csrc.nist.gov/Projects/Usable-Cybersecurity/Research-Publications#Phishing_behaviors
-- https://www.nist.gov/news-events/news/2020/09/phish-scale-nist-developed-method-helps-it-staff-see-why-users-click
-- https://www.nist.gov/publications/scaling-phish-advancing-nist-phish-scale
-- https://news.ohsu.edu/2022/04/15/ohsu-statement-on-phishing-exercise
-- https://www.theguardian.com/uk-news/2021/may/10/train-firms-worker-bonus-email-is-actually-cyber-security-test
-- https://www.businessinsider.com/godaddy-disguised-a-phishing-email-test-as-holiday-bonus-announcement-2020-12
+- <https://academic.oup.com/cybersecurity/article/6/1/tyaa009/5905453?login=false#207409537>
+- <https://csrc.nist.gov/Projects/Usable-Cybersecurity/Research-Publications#Phishing_behaviors>
+- <https://www.nist.gov/news-events/news/2020/09/phish-scale-nist-developed-method-helps-it-staff-see-why-users-click>
+- <https://www.nist.gov/publications/scaling-phish-advancing-nist-phish-scale>
+- <https://news.ohsu.edu/2022/04/15/ohsu-statement-on-phishing-exercise>
+- <https://www.theguardian.com/uk-news/2021/may/10/train-firms-worker-bonus-email-is-actually-cyber-security-test>
+- <https://www.businessinsider.com/godaddy-disguised-a-phishing-email-test-as-holiday-bonus-announcement-2020-12>

@@ -9,7 +9,6 @@ tags: [English]     # TAG names should always be lowercase
 
 # The Eastern Mediterranean Dispute Part 3
 
-
 ## Problems in Aegean Sea
 
 read the part one and two
@@ -23,7 +22,7 @@ read the part one and two
 
 - Türkiye's Stance
 - Greece's Stance
-- 
+
 ### Problems with Search and Rescue Region
 
 - Türkiye's Stance

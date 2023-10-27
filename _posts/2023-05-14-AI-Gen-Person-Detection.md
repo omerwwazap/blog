@@ -29,6 +29,7 @@ Görüldüğü gibi gerçek mi sahte mi olduğunu anlamak çok zor bir hâlâ ge
 StyleGAN şu an en gelişmiş yapay yüz oluşturma metholdarında birisi olarak kabul edilse de. Oluşturulan resimlerin sahte olduğu anlamamın birkaç yolu vardır.
 
 ### Arka Plan
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Yüz eğitmek için oluşturulan GAN’lar resimlerin arka planlarını oluşturmakta pekiyi değildir. Araka planda okunması zor yazılar, surreal görüntüler ve fiziksel olarak imkânsız manzaralar görebilirsiniz. Bunun nedeni GAN’ı oluştururken kullanılan resimlerin genelde sadece insan kafasının ortalanmış ve kesilmiş(crop) resimler ile oluşturulmasındandır. Bu sebep ile arka plandan bir bilgi öğrenmesi oldukça zordur
@@ -40,6 +41,7 @@ Yüz eğitmek için oluşturulan GAN’lar resimlerin arka planlarını oluştur
 | *Arka planlarda gariplikler* |
 
 ### Garip Dişler
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Dişlerin işlenmesi pek kolay değildir. Genellikle dişler tuhaf renkli, anormal şekilli veya asimetriktir. Bazı durumlarda, aşağıdaki gibi üç azı dişi bile görebilirsiniz.
@@ -48,8 +50,8 @@ Dişlerin işlenmesi pek kolay değildir. Genellikle dişler tuhaf renkli, anorm
 |:--:|
 | *Resimlerin üzerinde tıklayarak dişlerdeki problemleri görebilirsiniz* |
 
-
 ### Saçların Görünüşü — Yeni uyanmış gibi saçlar
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Saçın gerçekçi bir şekilde işlenmesi büyük bir problem gibi gözüküyor. Bazen yüzlerde veya başka bir yerde bağlantısız saç telleri görebilrisiniz. Diğer zamanlarda ssaçın etrafında garip bir parıltı veya fon olabilir. Çok nadiren de sanki Paint ile photoshop’lanmış saç uçları da bulabilirsiniz.
@@ -59,6 +61,7 @@ Saçın gerçekçi bir şekilde işlenmesi büyük bir problem gibi gözüküyor
 | *Kırmızı ile işaretlenmiştir.* |
 
 ### Renk Kanaması
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Bazı resimlerde ufak renk bozuklukları olduğunu görebilirsiniz.
@@ -68,6 +71,7 @@ Bazı resimlerde ufak renk bozuklukları olduğunu görebilirsiniz.
 | *Tüm resimlerde, kıyafetlerin yakasına dikkatli bakmalısınız.* |
 
 ### Kayıp Küpeler — Asimetri
+>
 > ==Güncel konular için kontrol edilmeli==
 
 GAN’ı oluştururken kullanılan resimlerin bazılarında küpe olması ve bazılarında olmaması, oluşturulan yapay yüzlerde sorunlar yatabiliyor. Ancak bu sorunlar son GAN versiyonlarında büyük oranda çözülmüştür.
@@ -77,6 +81,7 @@ GAN’ı oluştururken kullanılan resimlerin bazılarında küpe olması ve baz
 | *Sol resimde küpe kulak ile birleşmiş ve Sağ resimde bir küpe eksik.* |
 
 ### Water Splotches[^2]
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Bu şekilde olan resimleri birisi profil fotoğrafı olarak kullanmaz ancak görmeniz durumunda yapay yüz yaratma algoritması ile yapıldığını anlayabilirsiniz.
@@ -86,6 +91,7 @@ Bu şekilde olan resimleri birisi profil fotoğrafı olarak kullanmaz ancak gör
 | *Genellikle Küpelerin olduğu yerde görülse de yukarıdaki örnekleri gibi farklı yerlerde de karşınıza çıkabilir.* |
 
 ### Gözlükler — Asimetri
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Şu anda, algoritmalar gerçekçi görünümlü gözlükler oluşturmayı pek beceremiyor. Genel bir simetri sorunu yaşıyorlar. Oluşturulan çerçevelerde genellikle sağ tarafında ve sol tarafında fiziksel farklılıklar oluyor.
@@ -95,6 +101,7 @@ Bu şekilde olan resimleri birisi profil fotoğrafı olarak kullanmaz ancak gör
 | *Gözlüklerin çerçevelerinde deformasyonlar vardır ve tam simetrik değildir. Ayrıca ilk resimde gözlük camları eksiktir.* |
 
 ### Simetri Problemleri — Asimetri
+>
 > ==Güncel konular için kontrol edilmeli==
 
 Genel olarak simetri, yüz oluşturma algoritmaları için şu an büyük bir problem oluşturuyor gibi gözüküyor. Gözlüklerine ek olarak sakalların asimetrik olması, sağ ve sol küpelerdeki deformasyon ve giyilen kıyafetteki tutarsızlıklar yapay yüzleri bulmamızda kolaylık sağlıyor.
@@ -104,6 +111,7 @@ Genel olarak simetri, yüz oluşturma algoritmaları için şu an büyük bir pr
 | *Sol resimde göz ve kaşlarda simetrik değildir. Sağ resimde ise kulakların birinde deformasyon vardır.* |
 
 ### ve En Önemlisi
+>
 > ==Güncel konular için kontrol edilmeli==
 
 GAN, şu an aynı yapay resmin bir başka versiyonunu oluşturamıyor, yani kişinin farklı bir açıdan görüntüsünü yaratamıyorlar. Eğer sosyal medyadan birisi ile tanıştıysanız sadece bir resmi var ise ve yapay olduğunda şüpheleniyorsanız başka bir resmin isteyin. Veremezler ise durum sıkıntılı demektir.
@@ -113,11 +121,12 @@ Tabii belirtmekte fayda [Wombo.ai](https://www.w.ai/) gibi bir resim üzerinden 
 > Öğrendiklerinizi denemek isterseniz. Gerçek mi sahte mi adlı oyuna bakabilirsiniz. [Which Face Is Real?](https://www.whichfaceisreal.com/learn.html)
 
 Daha farklı teknikler ve StyleGAN ile başka ne tür şeyler yapay olarak yapılabilir bakmak isterseniz, güzel bir liste hazırladım,
+
 - Yapay Kedi Resimleri — [thiscatdoesnotexist.com](https://thiscatdoesnotexist.com/)
 - Yapay Oda Resimleri — [Cozy apartment in coole — Guest suites for Rent](https://thisrentaldoesnotexist.com/)
 - Yapay Stackoverflow soruları — [Stack Roboflow: This Question Does Not Exist](https://stackroboflow.com/)
 - Yapay Araba Resimleri — [This Automobile / Car / Vehicle Does Not Exist](https://www.thisautomobiledoesnotexist.com/)
-- Yapay Şehir/Uydu Görüntüleri — [This City Does Not Exist](http://thiscitydoesnotexist.com/)
+- Yapay Şehir/Uydu Görüntüleri — [This City Does Not Exist](https://thiscitydoesnotexist.com/)
 - Yapay Sahiller — [This beach does not exist](https://thisbeachdoesnotexist.com/)
 - Gerçek insanların yüzlerinden sahte insan resmi üretimi - [Generate look-a-like photos to protect your identity](https://generated.photos/anonymizer)
 - Kriterlere göre insan resmi seçmenizi sağlayan bir site — [Gallery of AI Generated Faces](https://generated.photos/faces)
@@ -125,5 +134,6 @@ Daha farklı teknikler ve StyleGAN ile başka ne tür şeyler yapay olarak yapı
 - ==PLACE HOLDER FOR NEW STUFF==
 
 ## Kaynak
+
 [^1]: First published here [Levent's Medium](https://medium.com/@leventd/yapay-zeka-taraf%C4%B1ndan-olu%C5%9Fturulan-sahte-ki%C5%9Filer-nas%C4%B1l-tan%C4%B1n%C4%B1r-eeac3aa1dde1).
 [^2]: Is not seen anymore with more advanced GAN applications.

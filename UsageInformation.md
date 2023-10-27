@@ -8,6 +8,7 @@ https://github.com/cotes2020/jekyll-theme-chirpy/tree/master/_posts
 
 https://github.com/jekyll/jekyll/issues/549
 
+https://mateam.net/html-escape-characters/
 
 ruby
 bundle exec jekyll s
