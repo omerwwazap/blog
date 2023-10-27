@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Yapay Zekâ Tarafından Oluşturulan Sahte Kişiler Nasıl Tanınır?
-date: 2023-05-14 12:00 +0200
+title: "[TR - Work In Progress] Yapay Zekâ Tarafından Oluşturulan Sahte Kişiler Nasıl Tanınır?"
+date: 2022-01-20 12:00 +0200
 categories: [OSINT, AI]
 tags: [Turkish]     # TAG names should always be lowercase
 ---
 
 # Yapay Zekâ Tarafından Oluşturulan Sahte Kişiler Nasıl Tanınır?[^1]
-
-> ==Güncel konular için kontrol edilmeli - To Do==
 
 *2000'li yıllarda üzerinde çalışılmaya başlanılan ve hayatımıza ilk kez Matrix, Terminator ve Tron filmleri ile girmiş olan Sentetik Yüz Oluşturma teknolojisi 2014'te Ian Goodfellow’un GAN (generative adversarial network) teknolojisi ile çok farklı boyutlara ulaşmıştır. Ancak 2018'e kadar gündelik hayatımıza girmemiştir.*
 
