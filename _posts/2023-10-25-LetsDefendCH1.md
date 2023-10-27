@@ -4,7 +4,7 @@ title: Lets Defend Challenge&#58; Investigate Web Attack
 date: 2023-10-25 12:00 +0200
 categories: [Cyber Security, Walkthroughs]
 tags: [English, Letsdefend]     # TAG names should always be lowercase
-img_path: /images/LetsDefendCH1/
+img_path: /images/LetsDefendCH1
 image:
   path: /webAttack.png
   alt: Let's Defend Investigate Web Attack Challenge.
