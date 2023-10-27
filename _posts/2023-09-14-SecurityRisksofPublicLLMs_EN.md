@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Security Risks of Public Artificial Intelligence Tools
-date: 2022-05-18 12:00 +0200
+date: 2022-10-28 12:00 +0200
 categories: [Cyber Security, General, Artificial Intelligence]
-tags: [English,AI , LLM]     # TAG names should always be lowercase
+tags: [English, AI , LLM]     # TAG names should always be lowercase
 ---
 
 # Security Risks of Public Artificial Intelligence Tools eg ChatGPT
