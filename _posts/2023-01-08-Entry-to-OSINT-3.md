@@ -7,3 +7,12 @@ tags: [Turkish]     # TAG names should always be lowercase
 ---
 
 ## Tarih ve Zaman Belirleme Teknikleri
+
+Sonra Eklenecek
+
+Sonra Eklenecek[^1]
+
+---
+References
+
+[^1]: asd
