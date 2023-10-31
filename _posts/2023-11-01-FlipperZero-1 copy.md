@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "[Work In Progress] Starting with Flipper Zero"
-date: 2023-11-01 20:53 +0200
-categories: [Hardware Security, General]
+date: 2023-11-01 00:53 +0200
+categories: [Hardware, General]
 tags: [English]     # TAG names should always be lowercase
 img_path: /images/2023FlipperZero1
 image:
@@ -21,4 +21,4 @@ Place Holder Text[^1]
 ---
 References
 
-[^1]: [Information about Dolphin](https://docs.flipper.net/basics/dolphin)
+[^1]: Information on [Dolphin](https://docs.flipper.net/basics/dolphin)
