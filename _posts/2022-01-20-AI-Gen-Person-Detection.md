@@ -135,3 +135,9 @@ Daha farklı teknikler ve StyleGAN ile başka ne tür şeyler yapay olarak yapı
 
 [^1]: First published here [Levent's Medium](https://medium.com/@leventd/yapay-zeka-taraf%C4%B1ndan-olu%C5%9Fturulan-sahte-ki%C5%9Filer-nas%C4%B1l-tan%C4%B1n%C4%B1r-eeac3aa1dde1).
 [^2]: Is not seen anymore with more advanced GAN applications.
+[^3]: https://jonathan-hui.medium.com/detect-ai-generated-images-deepfakes-part-1-b518ed5075f4
+[^4]: https://jonathan-hui.medium.com/detect-ai-generated-images-deepfakes-part-2-436c57eeb878
+[^5]: https://jonathan-hui.medium.com/detect-ai-generated-images-deepfakes-part-3-9c3fdf97d572
+[^6]: https://www.discovermagazine.com/technology/how-to-spot-synthetic-faces-online-the-clue-is-in-the-eyes
+[^7]: https://krebsonsecurity.com/2022/10/glut-of-fake-linkedin-profiles-pits-hr-against-the-bots/
+[^8]: https://detectfakes.media.mit.edu/
