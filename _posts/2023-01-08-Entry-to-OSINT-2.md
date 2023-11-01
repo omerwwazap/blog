@@ -4,6 +4,9 @@ title: "[TR] OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation - 2"
 date: 2023-01-08 13:00 +0200
 categories: [OSINT, Geolocation]
 tags: [Turkish]     # TAG names should always be lowercase
+img_path: /images/2023OSINT2
+image:
+  path: /1.png
 ---
 
 # OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation[^1]
@@ -108,11 +111,7 @@ Gibi yukarıdaki siteler ve aklınıza gelebilecek her şeyin listesini tutan si
 
 Basit bir geolcation örneği görmek isterseniz; bu basit örneğe bakabilirsiniz. [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597) Medium hesabımda 30'a yakın geolcation çözümü bulunuyor 😀
 
-## Kaynak
-
-[^1]: First published here [Levent's Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/blog/osint-ile-cografi-konum-belirleme-teknikleri-geolocation-2).
-
---
+## Kaynak[^2]
 
 - Last Toy Train Home — OSINT Challenge 11 - Medium 
 - A Very Particular Set of Skills: Geolocation Techniques For OSINT and Investigation - Chris Kindig (Circle City Con 2018 Videos) (Hacking Illustrated Series InfoSec Tutorial Videos)
@@ -123,3 +122,6 @@ Basit bir geolcation örneği görmek isterseniz; bu basit örneğe bakabilirsin
 - https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/
 - https://petapixel.com/2012/12/03/exif-data-may-have-revealed-location-of-fugitive-billionaire-john-mcafee/
 - https://www.mobileprivacy.org/2012/12/vice-com-publishes-exclusive-with-john-mcafee-reveals-location-in-iphone-metadata-exif/
+
+[^1]: First published here [Levent's Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/blog/osint-ile-cografi-konum-belirleme-teknikleri-geolocation-2).
+[^2]: [Banner resim kaynağı](https://www.browserstack.com/blog/geolocation-takes-over-the-power-of-testing-websites-and-mobile-apps-around-the-world/)
