@@ -2,7 +2,7 @@
 layout: post
 title: Security Risks of Public Artificial Intelligence Tools
 date: 2023-10-27 20:53 +0200
-categories: [Cyber Security, General, Artificial Intelligence]
+categories: [Cyber Security, Secure Artificial Intelligence]
 tags: [English, AI , LLM]     # TAG names should always be lowercase
 img_path: /images/LLMRisks
 pin: true
