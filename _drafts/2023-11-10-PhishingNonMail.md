@@ -12,7 +12,4 @@ image:
 
 Place holder text
 
----
-References
-
 [^1]: Banner Image taken from the [Official Raspberry Pi site.](https://www.raspberrypi.com/)
