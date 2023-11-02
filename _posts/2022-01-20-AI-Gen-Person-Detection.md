@@ -3,7 +3,7 @@ layout: post
 title: "[TR] Yapay Zekâ Tarafından Oluşturulan Sahte Kişiler Nasıl Tanınır?"
 date: 2022-01-20 12:00 +0200
 categories: [Artificial Intelligence]
-tags: [Turkish, AI]     # TAG names should always be lowercase
+tags: [Turkish, AI, Face Detection]     # TAG names should always be lowercase
 img_path: /images/2022AITespit
 image:
   path: /0.png

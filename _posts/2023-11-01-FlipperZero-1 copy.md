@@ -2,7 +2,7 @@
 layout: post
 title: "[Work In Progress] Starting with Flipper Zero"
 date: 2023-11-01 00:53 +0200
-categories: [Hardware, General]
+categories: [Hardware, Flipper Zero]
 tags: [English]     # TAG names should always be lowercase
 img_path: /images/2023FlipperZero1
 image:
