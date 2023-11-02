@@ -152,7 +152,7 @@ As you can see, James actually gave us everything we needed to solve this questi
 
 So, is it simply “1:00 AM minus 8 hours of work = Answer” Not quite, because Twitter actually shows 1:00AM for **MY local time** not UK Time, and since I’m not in the UK Time zone, I’LL need to do some adjustments.
 
-Using sites like [timebie](http://www.timebie.com/timezone/istanbullondon.php) , we can see that 1:00AM my local time is 10:00PM UK Time(previuoıs day) . So, minus 8 hours of work is gives us 5:00PM my local time which is **2:00PM UK Time. The answer is 2:00**
+Using sites like [timebie](https://www.timebie.com/timezone/istanbullondon.php) , we can see that 1:00AM my local time is 10:00PM UK Time(previuoıs day) . So, minus 8 hours of work is gives us 5:00PM my local time which is **2:00PM UK Time. The answer is 2:00**
 
 > Answer: 2:00
 {: .prompt-tip }

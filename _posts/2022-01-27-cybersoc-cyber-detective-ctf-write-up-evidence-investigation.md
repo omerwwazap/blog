@@ -32,7 +32,7 @@ Well, since I already know the Brand and Model of the car. I started searching t
 
 ![Question 2 — connectionrefused](/4.png)
 
-So I tried opening the site, but it failed, so since it says it was accessible 4 years ago, let's go to [web.archive.org](http://web.archive.org) . Here there were multiple snap-shots, so I checked them all. One of them leads to the answer.
+So I tried opening the site, but it failed, so since it says it was accessible 4 years ago, let's go to [web.archive.org](https://web.archive.org) . Here there were multiple snap-shots, so I checked them all. One of them leads to the answer.
 
 | ![Image](/5.png) | ![Doctor Who?](/6.png) |
 
