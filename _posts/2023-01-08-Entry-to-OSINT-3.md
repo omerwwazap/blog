@@ -2,17 +2,17 @@
 layout: post
 title: "[TR - Work In Progress] OSINT için Tarih ve Zaman Belirleme Teknikleri – Chronolocation - 3"
 date: 2023-01-08 14:00 +0200
-categories: [OSINT, Geolocation, Work In Progress]
-tags: [Turkish]     # TAG names should always be lowercase
+categories: [OSINT, Geolocation]
+tags: [Turkish, Work In Progress]     # TAG names should always be lowercase
+img_path: /images/2023OSINT3
+image:
+  path: /1.png
 ---
 
-## Tarih ve Zaman Belirleme Teknikleri
+# Tarih ve Zaman Belirleme Teknikleri
 
 Sonra Eklenecek
 
-Sonra Eklenecek[^1]
+## Kaynak[^1]
 
----
-References
-
-[^1]: asd
+[^1]: [Banner resim kaynağı](https://www.space.fm/astronomy/earthmoonsun/shadowstick.html)

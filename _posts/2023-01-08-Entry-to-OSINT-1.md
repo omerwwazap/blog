@@ -4,6 +4,9 @@ title: "[TR] OSINT – Açık Kaynak İstihbarata Giriş - 1"
 date: 2023-01-08 12:00 +0200
 categories: [OSINT, Geolocation]
 tags: [Turkish]     # TAG names should always be lowercase
+img_path: /images/2023OSINT1
+image:
+  path: /1.webp
 ---
 
 # OSINT – Açık Kaynak İstihbarata Giriş - 1 [^1]
@@ -112,18 +115,17 @@ Bu tür kullanımların dışında genelde Gazeteciler, Araştırmacılar ve Gü
 
 OSINT’in ne olduğunu, neden yapıldığını, kimler tarafından yapıldığı ve nasıl yapıldığı hakkında genel bir fikir sahibi olmuşsunuzdur. Toparlamak gerekirse OSINT, açık kaynaklardan elde edilebilecek her türlü bilgiyi kapsar. Bu bilginin elde edilmesinde ise herhangi bir tür casusluk veya illegal yöntemleri kullanılmaz.
 
-## Kaynak
+## Kaynak[^2]
+
+- [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597)
+- [First Steps to Getting Started in Open Source Research](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/)
+- [A Very Particular Set of Skills: Geolocation Techniques For OSINT and Investigation](https://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-304-a-very-particular-set-of-skills-geolocation-techniques-for-osint-and-investigation-chris-kindig)
+- [OHCHR Berkeley Protocol](https://www.ohchr.org/sites/default/files/2022-04/OHCHR_BerkeleyProtocol.pdf)
+- [Sector035 Articles](https://sector035.nl/articles)
+- [OSINTDojo](https://www.osintdojo.com/resources/)
+- [NIXIntel 20 Questions](https://nixintel.info/osint/20-questions-quiztime-25th-november-2019/)
+- [UK-OSINT](https://www.uk-osint.net/)
+- [InfoSec Writeups](https://infosecwriteups.com/)
 
 [^1]: First published here [Levent's Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/blog/osint-acik-kaynak-istihbarata-giris-1).
-
---
-
-- <https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597>
-- <https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/>
-- <https://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-304-a-very-particular-set-of-skills-geolocation-techniques-for-osint-and-investigation-chris-kindig>
-- <https://www.ohchr.org/Documents/Publications/OHCHR_BerkeleyProtocol.pdf>
-- <https://sector035.nl/articles>
-- <https://www.osintdojo.com/resources/>
-- <https://nixintel.info/osint/20-questions-quiztime-25th-november-2019/>
-- <https://www.uk-osint.net/>
-- <https://infosecwriteups.com/>
+[^2]: [Banner Resim kaynağı](https://www.infinitumit.com.tr/osint-nedir-en-yaygin-kullanilan-osint-araclari/)

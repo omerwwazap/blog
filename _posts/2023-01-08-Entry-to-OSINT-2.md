@@ -4,6 +4,9 @@ title: "[TR] OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation - 2"
 date: 2023-01-08 13:00 +0200
 categories: [OSINT, Geolocation]
 tags: [Turkish]     # TAG names should always be lowercase
+img_path: /images/2023OSINT2
+image:
+  path: /1.png
 ---
 
 # OSINT ile Coğrafi Konum Belirleme Teknikleri – Geolocation[^1]
@@ -108,18 +111,16 @@ Gibi yukarıdaki siteler ve aklınıza gelebilecek her şeyin listesini tutan si
 
 Basit bir geolcation örneği görmek isterseniz; bu basit örneğe bakabilirsiniz. [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597) Medium hesabımda 30'a yakın geolcation çözümü bulunuyor 😀
 
-## Kaynak
+## Kaynak[^2]
+
+- [Last Toy Train Home — OSINT Challenge 11](https://medium.com/@leventd/quiztime-random-osint-challenge-11-abc5ea122597)
+- [A Very Particular Set of Skills: Geolocation Techniques For OSINT and Investigation](https://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-304-a-very-particular-set-of-skills-geolocation-techniques-for-osint-and-investigation-chris-kindig)
+- [Tell, Explain, Describe… Asking The Right Questions To Get The Right Answers – Quiztime 25th June 2019 – NixIntel](https://nixintel.info/osint/tell-explain-describe-asking-the-right-questions-to-get-the-right-answers-quiztime-25th-june-2019/)
+- [10 Minute Tip: How to geolocate from images and videos, Part 1](https://osintcurio.us/2020/11/01/ten-minute-tip-image-geolocation-part-1/)
+- [The Sunny Side of Geolocation Verifications](https://keyfindings.blog/2018/10/02/the-sunny-side-of-geolocation-verifications/)
+- [John mMcafee Location Exif](https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/)
+- [EXIF Data May Have Revealed Location of Fugitive Software Tycoon John McAfee](https://petapixel.com/2012/12/03/exif-data-may-have-revealed-location-of-fugitive-billionaire-john-mcafee/)
+- [Vice.com John McAfee Exclusive Reveals His Location in iPhone EXIF Data](https://www.mobileprivacy.org/2012/12/vice-com-publishes-exclusive-with-john-mcafee-reveals-location-in-iphone-metadata-exif/)
 
 [^1]: First published here [Levent's Turkcell Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/blog/osint-ile-cografi-konum-belirleme-teknikleri-geolocation-2).
-
---
-
-- Last Toy Train Home — OSINT Challenge 11 - Medium 
-- A Very Particular Set of Skills: Geolocation Techniques For OSINT and Investigation - Chris Kindig (Circle City Con 2018 Videos) (Hacking Illustrated Series InfoSec Tutorial Videos)
-- Tell, Explain, Describe… Asking The Right Questions To Get The Right Answers – Quiztime 25th June 2019 – NixIntel
-- https://osintcurio.us/2020/11/01/ten-minute-tip-image-geolocation-part-1/
-- https://nixintel.info/osint/tell-explain-describe-asking-the-right-questions-to-get-the-right-answers-quiztime-25th-june-2019/
-- https://keyfindings.blog/2018/10/02/the-sunny-side-of-geolocation-verifications/
-- https://nakedsecurity.sophos.com/2012/12/03/john-mcafee-location-exif/
-- https://petapixel.com/2012/12/03/exif-data-may-have-revealed-location-of-fugitive-billionaire-john-mcafee/
-- https://www.mobileprivacy.org/2012/12/vice-com-publishes-exclusive-with-john-mcafee-reveals-location-in-iphone-metadata-exif/
+[^2]: [Banner resim kaynağı](https://www.browserstack.com/blog/geolocation-takes-over-the-power-of-testing-websites-and-mobile-apps-around-the-world/)
