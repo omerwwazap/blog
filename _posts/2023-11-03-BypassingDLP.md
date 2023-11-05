@@ -6,7 +6,7 @@ categories: [Cyber Security, Systems]
 tags: [English, Ideas]     # TAG names should always be lowercase
 img_path: /images/2023DLP1
 image:
-  path: /0.png
+  path: /0.webp
   alt: Bypassing DLP's - Novel Methods
 ---
 
