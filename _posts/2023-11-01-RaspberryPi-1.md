@@ -12,9 +12,14 @@ image:
 
 # Raspberry Pi Basics of GPIO - My Hobby Projects[^1]
 
-This is a siple blog post to talk about my [Github repo](https://github.com/omerwwazap/Raspberry-Pi-GPIO-Usage) where i find random hobbyist projects and try to make them my self.
+This is a simple blog post to talk about my [Github repo](https://github.com/omerwwazap/Raspberry-Pi-GPIO-Usage) where I find random hobbyist projects and try to make them my self.
 
-Place holder text
+My first ever project was to make an [Basic Led Blink and Led Button Programs](https://github.com/omerwwazap/Raspberry-Pi-GPIO-Usage#basic-led-blink-and-led-button-programs)
+
+[Led Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch) |  [Led Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button) |
+|:-------------------------:|:-------------------------:
+![Switch](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Switch/1-Led-Switch_bb.png)  |  ![Button](https://github.com/omerwwazap/Raspberry-Pi-Basic-GPIO/blob/master/Led-Program/Button/2-Led-Button_bb.png) |
+
 
 ---
 References
