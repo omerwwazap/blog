@@ -118,6 +118,9 @@ pwa:
 
 paginate: 10
 
+google_search_console:
+  verification_file_code: df06dd11433c76fd
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -200,3 +203,4 @@ jekyll-archives:
 
 plugins:
   - jemoji
+  - jekyll-google_search_console_verification_file

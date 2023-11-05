@@ -30,3 +30,5 @@ end
 gem 'jekyll-redirect-from'
 
 gem 'jemoji'
+
+gem 'jekyll-google_search_console_verification_file'
