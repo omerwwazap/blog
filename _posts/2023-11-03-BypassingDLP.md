@@ -81,13 +81,13 @@ Check this list of [Wifi Enabled Hard Drives](https://www.techradar.com/news/bes
 3. Scan the data being transferred to USB storage devices to detect or block the transfer of sensitive or confidential information.
 4. Think of solutions for creating a white list of USB disks for company given USB/HDD/SSDs and do not allow personal use when granting permission.
 
-But yes this is harders to do than the others one
-
-### 4 - Forms of Stenography
-
-There probably even more but these were the one that came to my mind in a 5 min brainstorming session.
+But yes this is harder to do than the others one
 
 ## Info on Side-Channel Attacks
+
+I will not explain this as its a very vast topic but in very simple terms its. Simply put Side-channel attacks are a *sneaky way* to steal secrets by analyzing unintended signals a device emits, like power use, EMI, light or sound. Attackers use these to figure out sensitive information without directly breaking encryption.
+
+For more the [wikipedia page is surprisingly good](https://en.wikipedia.org/wiki/Side-channel_attack).
 
 [^1]: [Tweet from Xbox Developer](http://web.archive.org/web/20181211013030/https://twitter.com/cullend/status/1071884772064944128)
 [^2]: [Xerox® Speciality Imaging: Fraud Deterrent Technology](https://www.xerox.com/tr-tr/dijital-baski/fraud-deterrent-technology)
