@@ -3,7 +3,7 @@ layout: post
 title: "[TR] NIST Phish Scale Oltalama Testlerinin Optimize Edilmesi"
 date: 2023-05-01 12:00 +0200
 categories: [Cyber Security, Phishing]
-tags: [Turkish]     # TAG names should always be lowercase
+tags: [Turkish, Academic]     # TAG names should always be lowercase
 img_path: /images/2023PhishScale
 pin: true
 image:
