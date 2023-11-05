@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Work In Progress] Bypassing DLP's - The Analog Gap"
+title: "Bypassing DLP's - The Analog Gap"
 date: 2023-11-03 01:53 +0200
 categories: [Cyber Security, Systems]
 tags: [English, Ideas]     # TAG names should always be lowercase
@@ -15,6 +15,9 @@ Data leakage is a serious threat to organizations, as it can lead to significant
 The main thing about DLP measures are that they are mainly focused on insiders as a risk (my opinion) and secondly and outside actor that gained access to some systems. My main reasoning for saying insider risk is simple; It is much more harder to detect and prevent data breaches when its done by employees that have rightful access to that data.
 
 One crucial point to understand is that if an employee wants to steal data, they will always find a way to do so, regardless of the obstacles and preventative measures. Thats why my idea/goal of having an DLP is to extremely difficult for them.
+
+> Disclaimer: This blog is for EDUCATIONAL purposes only and is not intended for real-world usage. I am not responsible for any harm or damage that may occur as of result of this information or sources provided in the post. By reading this post you acknowledge and agree that you do so at your own risk. Failure to comply may result in consequences!
+{: .prompt-danger }
 
 ## Basics of DLPs and CASB
 
@@ -56,11 +59,16 @@ When it comes to physical printing security there even more ways here is a small
 - [MicroText or Microprinting](https://en.wikipedia.org/wiki/Microprinting) 1 point size, readable only with a magnifying glass.[^2]
 - InfraRed text - Printed text that is only visible in the dark, with an infrared camera.[^2]
 
-### 2 - Capture Cards and Monitors
+A finlay recommendation to read is [Analog Hole](https://en.wikipedia.org/wiki/Analog_hole). Its the potential for analog copying or recording of copyrighted digital content, and bypassing digital rights management (DRM).
+
+### 2 - Capture Cards
+
+A capture card is a hardware device used to capture and record video and audio from external sources, such as gaming consoles, cameras, or **other computers**.
+Essentially you can use it to capture the video output of a computer and display it on another computer and record it for later use.
 
 #### Solutions
 
-
+Not possible unless you disable Video out ports like HDMI and DP.
 
 ### 3 - Wifi Enabled Hard Drives
 
