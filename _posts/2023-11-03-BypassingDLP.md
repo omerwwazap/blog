@@ -89,5 +89,5 @@ I will not explain this as its a very vast topic but in very simple terms its. S
 
 For more the [wikipedia page is surprisingly good](https://en.wikipedia.org/wiki/Side-channel_attack).
 
-[^1]: [Tweet from Xbox Developer](http://web.archive.org/web/20181211013030/https://twitter.com/cullend/status/1071884772064944128)
+[^1]: [Tweet from Xbox Developer](https://web.archive.org/web/20181211013030/https://twitter.com/cullend/status/1071884772064944128)
 [^2]: [Xerox® Speciality Imaging: Fraud Deterrent Technology](https://www.xerox.com/tr-tr/dijital-baski/fraud-deterrent-technology)
