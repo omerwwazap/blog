@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Work In Progress] Raspberry Pi Basics of GPIO and External Devices"
+title: "Raspberry Pi Basics of GPIO and External Devices"
 date: 2023-11-01 01:53 +0200
 categories: [Hardware, Raspberry Pi]
 tags: [English]     # TAG names should always be lowercase
