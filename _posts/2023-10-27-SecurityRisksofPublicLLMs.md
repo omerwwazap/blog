@@ -2,7 +2,7 @@
 layout: post
 title: Security Risks of Public Artificial Intelligence Tools
 date: 2023-10-27 20:53 +0200
-categories: [Cyber Security, General, Artificial Intelligence]
+categories: [Cyber Security, Secure Artificial Intelligence]
 tags: [English, AI , LLM]     # TAG names should always be lowercase
 img_path: /images/LLMRisks
 pin: true
@@ -60,9 +60,15 @@ For more information look, [Here](https://www.pluralsight.com/blog/security-prof
 
 ### *Real Example of Mistakes*
 
-![Bing Aı](/BingAILogic.png)
+![Bing AI](/BingAILogic.png)
 
 As seen in the image, simple problems that require physical understanding of the world are not accurate.
+
+![Bing AI](/Compare.png)
+
+As you can see, though it explains it logic on why it take 25 hours, it actually would not.[^8]
+
+If you have time please checkout this post [How fast is AI improving?](https://theaidigest.org/progress-and-dangers)
 
 ### *Real Example of Inaccurate Information*
 
@@ -167,3 +173,4 @@ References
 [^5]: [Googles Promo Tweet](https://x.com/Google/status/1622710355775393793?s=20)
 [^6]: [2M1207 b - First image of an exoplanet ](https://go.nasa.gov/3YCFI1f)
 [^7]: [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) - Check Section 6. Risks and Mitigation
+[^8]: [How fast is AI improving?](https://theaidigest.org/progress-and-dangers)
