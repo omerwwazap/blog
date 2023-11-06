@@ -61,6 +61,8 @@ When it comes to physical printing security there even more ways here is a small
 
 A finlay recommendation to read is [Analog Hole](https://en.wikipedia.org/wiki/Analog_hole). Its the potential for analog copying or recording of copyrighted digital content, and bypassing digital rights management (DRM).
 
+Also just found out about this very interesting topics called [EURion Constellation](https://en.wikipedia.org/wiki/EURion_constellation) and [this video](https://www.youtube.com/watch?v=1c-jBfZPVv4). Quote form Wikipedia "s a pattern of symbols incorporated into a number of secure documents such as banknotes, checks, and ownership title certificates designs worldwide since about 1996. ... Such software can then block the user from reproducing banknotes to prevent counterfeiting using colour photocopiers."
+
 ### 2 - Capture Cards
 
 A capture card is a hardware device used to capture and record video and audio from external sources, such as gaming consoles, cameras, or **other computers**.
