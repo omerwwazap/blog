@@ -7,4 +7,4 @@
   - I might even use both at the same time, we'll see.
 - Just to show you how undecided I am, I have the same blog with the same posts in my [wordpress site](https://omerwwazap.wordpress.com/) 🤣
   - I'll probably close this eventually.
-- *Site deployment every day at 2.00AM*
+- *Site deployment every day at 2.00AM UTC*
