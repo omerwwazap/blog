@@ -44,7 +44,7 @@ En popüler şifreler arasında 1453, 1923, 0571, 1881, 1234, 2580, yer alıyor.
 
 Bunların hiç birisi olmadıysa çok çok nadir bir durumdasınız demektir. Ancak hala şansınız var.
 
-- Şehrin plaka kodu + apartman ya da ev sahibinin memleketinin plaka kodu.
+- Şehrin **plaka kodu** + **apartman numarası ya da ev sahibinin memleketinin plaka kodu**.
 - Bunların hiçbiri olmaz ise, binanın yapım yılı olabilir.
 
 ## Master Şifrelerin Varsayılan Olarak Bırakılması
@@ -65,6 +65,12 @@ Türkiye'de birçok apartmanda master şifrelerin varsayılan olarak bırakıld�
 |        #*654321       |              netelsan              |
 
 **"*"** ve **"#"** kullanımı markaya göre değişmektedir.
+
+Araştırmalarıma göre bu 5 Master şifre çalışmıyorsa yapmanız gereken şey, Google!. Google'a
+
+- *[cihazın markası + diyafon/kapı  + kullanım kılavuzu]*
+
+gibi bir arama yaparsanız. Şirketlerin varsayılan şifrelerini kullanım kılavuzlarında bulabilirsiniz.
 
 ## Alınabilecek Önemler - DÜZENLENECEK
 
