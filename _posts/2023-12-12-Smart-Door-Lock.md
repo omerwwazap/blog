@@ -7,7 +7,7 @@ tags: [English, Reverse Engineer]     # TAG names should always be lowercase
 img_path: /images/2023SmartDoorLock
 image:
   path: /0.png
-  alt: xxxxxxxxxxxxxxxxxxxxxx
+  alt: Bing AI Image Creator (Typo Burglar to Burger)
 ---
 
 Türkiye'de apartman dış kapı şifreleri genellikle basit ve tahmin edilmesi kolay sayılardan oluşuyor. Bu durum, tahmin edileceği üzere büyük problemler yaratıyor.
@@ -85,10 +85,9 @@ Apartman dış kapılarının güvenliğini artırmak için alınabilecek bazı 
 Bu şifreler sadece bina/ev kapıları için değil Kurum, Kuruluş ve Hastane gibi bina içerisinde bulanan kapılar için de geçerlidir.
 
 Bakınız Twitter'dan örnekler (embedded postlar Twitter X olduğundan beri yavaş yükleniyor),
+
 - <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Hastanede böyle bi kapı görürseniz tereddütsüz 1453’ü tuşlayabilirsiniz, kapı açılmadıysa yanlış tuşa basmışsınızdır tekrar 1453’ü deneyin... <a href="https://t.co/8W45tijXU0">pic.twitter.com/8W45tijXU0</a></p>&mdash; Mehmet Batuhan Örs (@mbatuhanors) <a href="https://twitter.com/mbatuhanors/status/1257379949331300353?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-- <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Hmm düzcedeyiz bilin bakalım kapı şifresi ne? 🤔 <a href="https://t.co/T1MhtuFPlY">pic.twitter.com/T1MhtuFPlY</a></p>&mdash; Düzce Muhtarı (@duzcemuhtari) <a href="https://twitter.com/duzcemuhtari/status/1186037456275214337?ref_src=twsrc%5Etfw">October 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
+- <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Hmm düzcedeyiz bilin bakalım kapı şifresi ne? 🤔 <a href="https://t.co/T1MhtuFPlY">pic.twitter.com/T1MhtuFPlY</a></p>&mdash; Düzce Muhtarı (@duzcemuhtari) <a href="https://twitter.com/duzcemuhtari/status/1186037456275214337?ref_src=twsrc%5Etfw">October 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Bonus - Komik Marka Paylaşımı
 
@@ -103,3 +102,5 @@ Kısacası, aşağıdaki noktalara dikkat edilmeli
 - Apartman dış kapı şifreleriniz basit ve tahmin edilmesi kolay sayılardan oluşmamalıdır.
 - Master şifreler kesinlikle değiştirilmelidir.
 - Her daire için özel şifreler belirlenebilir.
+
+Note: Banner prompt for Bing AI Image Creator: A burger with arms as a french-fry is using an apartments keypad to enter the entrance code to the building. a random password at an apartment entrance. on the entrance keypad.
