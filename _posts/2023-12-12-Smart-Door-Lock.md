@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "[TR] Apartman Giriş Kapılarındaki Güvenlik Sorunları ve Şifrelerin Anlamlı Dünyası"
-date: 2023-12-11 01:53 +0200
+date: 2023-12-12 01:53 +0200
 categories: [Cyber Security, Malware]
 tags: [English, Reverse Engineer]     # TAG names should always be lowercase
 img_path: /images/2023SmartDoorLock
 image:
   path: /0.png
-  alt: Bing AI Image Creator (Typo Burglar to Burger)
+  alt: Bing AI Image Creator (Yazım hatası Burglar ve Burger)
 ---
 
 Türkiye'de apartman dış kapı şifreleri genellikle basit ve tahmin edilmesi kolay sayılardan oluşuyor. Bu durum, tahmin edileceği üzere büyük problemler yaratıyor.
@@ -28,10 +28,10 @@ En popüler şifreler arasında 1453, 1923, 0571, 1881, 1234, 2580, yer alıyor.
 |       **1920**       | Türkiye Cumhuriyeti'nin temellerinin atıldığı yıldır                 |                                |
 |       **1234**       | Basit ve kolayca hatırlanabilir bir şifre                            | En Sık Görülen Şifrelerdendir. |
 |       **1299**       | Osmanlı Devleti'nin kuruluş yılı                                     |                                |
-|       **2580**       | 1234 yapmak istemediği için key pad'de üstten alta yazılan şifredir  | En Sık Görülen Şifrelerdendir. |
+|       **2580**       | 1234 yapmak istemediği için key pad'de üstten alta yazılan şifre     | En Sık Görülen Şifrelerdendir. |
 |       **5789**       | Pad üstünde üçgen çizme, Android cihazlardaki kaydırma şifreler gibi |                                |
 |       **3698**       | Pad üstünde, Android cihazlardan,  ters L dir                        |                                |
-| **8181, 2323, 6161** | Şehirlerin plaklarıdır                                               |                                |
+| **8181, 2323, 6161** | Şehir plakaları                                                      |                                |
 |       **1923**       | Türkiye Cumhuriyeti'nin kuruluş yılı                                 | En Sık Görülen Şifrelerdendir. |
 |       **1938**       | Mustafa Kemal Atatürk'ün vefat ettiği yıl                            |                                |
 
