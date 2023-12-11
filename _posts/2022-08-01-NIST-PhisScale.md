@@ -7,7 +7,7 @@ tags: [Turkish, Academic,Awareness]     # TAG names should always be lowercase
 img_path: /images/2023PhishScale
 pin: true
 image:
-  path: /0.webp
+  path: /0.png
   alt: NIST Phish Scale.
 ---
 
