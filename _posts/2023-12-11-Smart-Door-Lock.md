@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[TR] Apartman Giriş Kapılarındaki Güvenlik Sorunları ve Şifrelerin Anlamlı Dünyası"
-date: 2023-12-12 01:53 +0200
+date: 2023-12-11 01:53 +0200
 categories: [Cyber Security, Malware]
 tags: [English, Reverse Engineer]     # TAG names should always be lowercase
 img_path: /images/2023SmartDoorLock
