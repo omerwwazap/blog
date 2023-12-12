@@ -1,12 +1,15 @@
 ---
 icon: fa fa-fighter-jet
-order: 6
+order: 4
 ---
 
 - [MusaLLat Virus and It's History](https://github.com/omerwwazap/MusaLLaT_Malware)
   - Blog Posts
     - [MusaLLaT.exe: From Prank to Pandemic Part 1 - History and Redemption of a Malware Creator](https://omerwwazap.github.io/blog/posts/MusallatMalware/)
     - MusaLLaT.exe: From Prank to Pandemic Part 2 - Unveiling the Malware's Technical Capabilities
+- State of eScams and Phishing Trend
+  - [State of eScams and Phishing Trends - 2022](https://omerwwazap.github.io/blog/posts/PhishTrend2022/)
+  - [State of eScams and Phishing Trends - 2023](https://omerwwazap.github.io/blog/posts/PhishTrend2023/)
 - [Türkçe Siber Güvenlik Farkındalık Kitapçığı](https://omerwwazap.gitbook.io/siber-guevenlik-farkindaligi/)
   - Bu Gitbook, Siber Güvenlik konusundaki farkındalığı artırmayı amaçlayan bir projesidir. Çok farklı konular hakkında farkındalık yazıları bulabilirsiniz.
 - [ESP8266 Wifi Module for Arduino](https://github.com/omerwwazap/ESP8266-GPIO-Usage)
@@ -20,3 +23,4 @@ order: 6
 - [Offline QR Code Generator](https://omerwwazap.github.io/QR-Code-Generator/)
 - [Browser In The Browser (BITB) Attack - Turkcell FastLogin/HızlıGiriş](https://github.com/omerwwazap/BITB)
   - [Demo Link](https://omerwwazap.github.io/BITB/Turkcell/index.html)
+- [Publication - Total Number of Defence related UAV Comparison in the Middle East: Turkish Security Forces](https://github.com/omerwwazap/MENA-UCAV-Comparison)

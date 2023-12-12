@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 layout: redirect
 redirect: https://omerwwazap.github.io
-order: 4
+order: 6
 #redirect_to: https://omerwwazap.github.io
 ---
 
