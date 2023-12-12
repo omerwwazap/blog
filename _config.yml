@@ -47,13 +47,13 @@ social:
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/leventdurdali
 
-google_site_verification: # fill in to your verification string
+google_site_verification: googledf06dd11433c76fd
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-CMX0QZLL55
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
