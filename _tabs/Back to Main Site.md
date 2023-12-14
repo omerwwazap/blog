@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 6
+order: 8
 redirect_to: https://omerwwazap.github.io
 target: blank
 #https://github.com/ser-mk/ser-mk.github.io/commit/a14a03c0aa6582d96ca0bb5df5af84b3a8a36933
