@@ -72,7 +72,7 @@ Araştırmalarıma göre bu 5 Master şifre çalışmıyorsa yapmanız gereken �
 
 gibi bir arama yaparsanız. Şirketlerin varsayılan şifrelerini kullanım kılavuzlarında bulabilirsiniz.
 
-## Alınabilecek Önemler - DÜZENLENECEK
+## Alınabilecek Önemler
 
 Apartman dış kapılarının güvenliğini artırmak için alınabilecek bazı önlemler şunlardır:
 
@@ -84,7 +84,7 @@ Apartman dış kapılarının güvenliğini artırmak için alınabilecek bazı 
   - *Her daire için özel şifreler belirlenmelidir*. Bunun efektif olmasının nedeni birisinin yukarı bahsettiğim bilindik şifrelerden birisini kullanma ihtimali %100.
 
 Şifre kullanımının kötü kullanımı bu cihazları tasarlayan şirketler tarafından bilinmektedir. Bu sebep ile bu şifreler ile dalga geçen reklamlar görülebilir.
-[Resim]
+![Image](2.png) _multitek_elektronik_
 
 ## Problem Sadece Dış Kapılar Değil
 
@@ -94,10 +94,6 @@ Bakınız Twitter'dan örnekler (embedded postlar Twitter X olduğundan beri yav
 
 - <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Hastanede böyle bi kapı görürseniz tereddütsüz 1453’ü tuşlayabilirsiniz, kapı açılmadıysa yanlış tuşa basmışsınızdır tekrar 1453’ü deneyin... <a href="https://t.co/8W45tijXU0">pic.twitter.com/8W45tijXU0</a></p>&mdash; Mehmet Batuhan Örs (@mbatuhanors) <a href="https://twitter.com/mbatuhanors/status/1257379949331300353?ref_src=twsrc%5Etfw">May 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - <blockquote class="twitter-tweet"><p lang="tr" dir="ltr">Hmm düzcedeyiz bilin bakalım kapı şifresi ne? 🤔 <a href="https://t.co/T1MhtuFPlY">pic.twitter.com/T1MhtuFPlY</a></p>&mdash; Düzce Muhtarı (@duzcemuhtari) <a href="https://twitter.com/duzcemuhtari/status/1186037456275214337?ref_src=twsrc%5Etfw">October 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Bonus - Komik Marka Paylaşımı
-
-![Image](2.png) _multitek_elektronik_
 
 ## Sonuç
 
