@@ -13,17 +13,17 @@ baseurl: "/blog"
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Brussels
+timezone: Europe/Istanbul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Levent Durdalı # the main title
+title: Levent Durdalı's Blog # the main title
 
 tagline: Cyber Security Analyst # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Cyber Security at Trendyol, working from Ankara
+  Explore the world of AI, Cyber Security, hardware like Flipper Zero & Raspberry Pi, OSINT techniques, and my Chinese learning journey. Discover insights on AI trends, Cyber Security awareness, phishing, global scams, and OSINT methods including geolocation. Join me on this tech-driven and language-learning adventure!
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://omerwwazap.github.io"
