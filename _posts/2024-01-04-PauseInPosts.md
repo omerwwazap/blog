@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stepping Stones: A Momentary Blog Pause"
-date: 2024-01-05 01:53 +0200
+date: 2024-01-04 01:53 +0200
 categories: [General]
 tags: [English]     # TAG names should always be lowercase
 ---
