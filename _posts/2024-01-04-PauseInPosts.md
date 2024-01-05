@@ -19,3 +19,4 @@ Exciting updates lie ahead in my upcoming blog posts! We'll be exploring fascina
 - Chinese Update Part 3 and 4
 - Post Explaing New Phishng Types to Watchout For
 - Final Part of OSINT Post - Chronolocaiton
+- More Explaination for Cybersecurity (Capability) Maturity Model
