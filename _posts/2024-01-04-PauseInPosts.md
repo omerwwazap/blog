@@ -14,9 +14,10 @@ However, once this adjustment period is over and I've settled into my new role, 
 
 Exciting updates lie ahead in my upcoming blog posts! We'll be exploring fascinating topics such as:
 
-- Bypassing Shcool Site Restrictions (Title TBD)
-- Three Random Password / Passphare
+- Bypassing School Site Restrictions (Title TBD)
+- Three Random Password / Passphrase
 - Chinese Update Part 3 and 4
-- Post Explaing New Phishng Types to Watchout For
+- Post Explain New Phishing Types to Watchout For
 - Final Part of OSINT Post - Chronolocaiton
-- More Explaination for Cybersecurity (Capability) Maturity Model
+- More Explanation for Cybersecurity (Capability) Maturity Model
+- And MORE!!!
