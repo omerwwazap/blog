@@ -102,6 +102,7 @@ I'm not going to explains this, its something you should know
   - [Maia Lima](https://www.theclueless.ai/project/maia-lima-2)
   - [@limaiaaa](https://www.instagram.com/limaiaaa/)
 - [@lilmiquela](https://www.instagram.com/lilmiquela/?hl=en) - Only on Instagram
+- [Serenay](https://www.instagram.com/ai.serenay/) - First in Turkey
 
 > Want to create it your on AI Influencer? Read This!!! by [@emmanuel_2m](https://twitter.com/emmanuel_2m)
 > 
