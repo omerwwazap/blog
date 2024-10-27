@@ -5,8 +5,8 @@ order: 9
 
 <body>
 <iframe
-		src="https://docs.google.com/viewer?srcid=1m-fAcsmD7YVD3GP_gItNN481dEeKjD27&pid=explorer&efh=false&a=v&chrome=false&embedded=true"
+		src="https://drive.google.com/file/d/1nvzlAUHfuGQ1UOd0cQamNs_FKv1-tJF1/preview"
 		frameBorder="0" scrolling="auto" height="1000px" width="100%">
 	</iframe>
-	 <p>Unable to display PDF file? <a href="https://omerwwazap.github.io/Documents/LeventDurdaliCV.pdf">Download</a> instead.</p>
+	 <p>Unable to display PDF file? <a href="https://drive.google.com/file/d/1nvzlAUHfuGQ1UOd0cQamNs_FKv1-tJF1/view">Download</a> instead.</p>
 </body>

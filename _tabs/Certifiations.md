@@ -9,8 +9,10 @@ order: 6
 - Ongoing
   - Chinese
 
-### Professional
+### [Professional](https://www.linkedin.com/in/leventdurdali/details/certifications/)
 
+- ISO 27001 Auditor - Information Security Certification (Apr 2024)
+- [OneTrust Trust Fellow](https://www.onetrust.com/certifications/)
 - Practical Advanced IoT Penetration Testing Course (Jun 2022)
   - CyberPath Training
 - Zero Touch Provisioning with Python (May 2022)
