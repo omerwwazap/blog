@@ -3,7 +3,7 @@ layout: post
 title: "Introducing Savunma Atlas: Your Interactive Guide to Turkey's Defense Industry"
 date: 2025-10-27 14:50:00 +0300
 categories: [General]
-tags: [english, defense, turkey, projects]
+tags: [English, defense, turkey, projects]     # TAG names should always be lowercase
 img_path: /images/2025SavunmaAtlas
 image:
   path: /Home.png
