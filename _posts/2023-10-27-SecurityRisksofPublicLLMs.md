@@ -5,7 +5,6 @@ date: 2023-10-27 20:53 +0200
 categories: [Cyber Security, Secure Artificial Intelligence]
 tags: [English, AI , LLM]     # TAG names should always be lowercase
 img_path: /images/LLMRisks
-pin: true
 image:
   path: /NewHumans.jpg
   alt: Large Language Models takes over the world.
