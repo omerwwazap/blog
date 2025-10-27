@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ghost in the Machine: Is Cyberspace Really a Lawless 'Wild West'?"
-date: 2025-10-27 15:00:00 +0300
+date: 2025-10-30 15:00:00 +0300
 categories: [Cyber Security, Management]
 tags: [english, academic, ideas]     # TAG names should always be lowercase
 img_path: /images/2025GhostMachine
