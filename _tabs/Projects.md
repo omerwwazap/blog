@@ -6,7 +6,8 @@ order: 4
 ## Websites
 
 - Turkish Defense Industry Atlas
-  - [Savunma Atlas](https://savunmaatlas.netlify.app/) (TBD)
+  - [Savunma Atlas](https://omerwwazap.github.io/Savunma-Atlas/)
+  - [Introducing Savunma Atlas: Your Interactive Guide to Turkey's Defense Industry](https://omerwwazap.github.io/blog/posts/Savunma-Atlas)
 - [Türkçe Siber Güvenlik Farkındalık Kitapçığı](https://omerwwazap.gitbook.io/siber-guevenlik-farkindaligi/)
   - Bu Gitbook, Siber Güvenlik konusundaki farkındalığı artırmayı amaçlayan bir projesidir. Çok farklı konular hakkında farkındalık yazıları bulabilirsiniz.
 - [CTF Online Tool List](https://omerwwazap.github.io/CTF-Resources/)
