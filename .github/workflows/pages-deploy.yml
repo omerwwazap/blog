@@ -8,9 +8,9 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-  # Run Every day at 2.00 AM UTC
+  # Run Every Monday at 2.00 AM UTC
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2 * * 1'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
